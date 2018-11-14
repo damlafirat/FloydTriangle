@@ -1,0 +1,9 @@
+C:\Users\damla\Desktop\Projects\FloydTriangle\FloydTriangle\bin\Debug\FloydTriangle.exe.config
+C:\Users\damla\Desktop\Projects\FloydTriangle\FloydTriangle\bin\Debug\FloydTriangle.exe
+C:\Users\damla\Desktop\Projects\FloydTriangle\FloydTriangle\bin\Debug\FloydTriangle.pdb
+C:\Users\damla\Desktop\Projects\FloydTriangle\FloydTriangle\obj\Debug\FloydTriangle.csprojResolveAssemblyReference.cache
+C:\Users\damla\Desktop\Projects\FloydTriangle\FloydTriangle\obj\Debug\FloydTriangle.exe
+C:\Users\damla\Desktop\Projects\FloydTriangle\FloydTriangle\obj\Debug\FloydTriangle.pdb
+C:\Users\damla\Desktop\Projects_C#\FloydTriangle\FloydTriangle\bin\Debug\FloydTriangle.exe.config
+C:\Users\damla\Desktop\Projects_C#\FloydTriangle\FloydTriangle\obj\Debug\FloydTriangle.exe
+C:\Users\damla\Desktop\Projects_C#\FloydTriangle\FloydTriangle\obj\Debug\FloydTriangle.pdb
